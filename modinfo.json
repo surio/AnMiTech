@@ -1,0 +1,11 @@
+{
+"type": "code",
+"modid": "tonwexp",
+"name": "AnMiTech",
+"authors": [ "Tonzag" ],
+"description": "Several new weapons to diversify your gameplay",
+"version": "1.1.0",
+"RequiredOnClient": true,
+"RequiredOnServer": true,
+"dependency": {}
+}
